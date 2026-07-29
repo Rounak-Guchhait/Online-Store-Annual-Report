@@ -2,7 +2,7 @@
 
 > **An interactive Excel dashboard that analyzes annual sales performance, customer behavior, and business trends to support data-driven decision-making.**
 
-This project presents an interactive **Microsoft Excel dashboard** that transforms raw sales data into meaningful business insights. Using Excel's data analysis and visualization capabilities, the dashboard enables stakeholders to monitor key performance indicators, identify sales trends, evaluate customer purchasing behavior, and support strategic business decisions.
+This project presents an interactive beginner-friendly **Microsoft Excel dashboard** that transforms raw sales data into meaningful business insights. Using Excel's data analysis and visualization capabilities, the dashboard enables stakeholders to monitor key performance indicators, identify sales trends, evaluate customer purchasing behavior, and support strategic business decisions.
 
 ---
 
