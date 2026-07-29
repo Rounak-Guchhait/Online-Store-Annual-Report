@@ -1,4 +1,4 @@
-# 🛍️ Online Store Annual Report
+# Online Store Annual Report
 
 > **An interactive Excel dashboard that analyzes annual sales performance, customer behavior, and business trends to support data-driven decision-making.**
 
@@ -6,7 +6,7 @@ This project presents an interactive **Microsoft Excel dashboard** that transfor
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 > **Interactive Excel Dashboard**
 
@@ -16,7 +16,7 @@ This project presents an interactive **Microsoft Excel dashboard** that transfor
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 Online retailers generate thousands of transactions throughout the year. Analyzing this data helps businesses understand customer preferences, monitor sales performance, identify profitable markets, and improve overall business strategy.
 
@@ -24,7 +24,7 @@ This project demonstrates how Microsoft Excel can be used as a powerful business
 
 ---
 
-# 🎯 Business Objectives
+# Business Objectives
 
 - Analyze annual sales performance
 - Monitor revenue trends
@@ -36,7 +36,7 @@ This project demonstrates how Microsoft Excel can be used as a powerful business
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 - **Microsoft Excel**
   - Pivot Tables
@@ -48,7 +48,7 @@ This project demonstrates how Microsoft Excel can be used as a powerful business
 
 ---
 
-# 📈 Dashboard Features
+# Dashboard Features
 
 The dashboard includes interactive visualizations such as:
 
@@ -63,7 +63,7 @@ The dashboard includes interactive visualizations such as:
 
 ---
 
-# 📊 Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 
 The dashboard tracks important business metrics, including:
 
@@ -78,7 +78,7 @@ The dashboard tracks important business metrics, including:
 
 ---
 
-# 💡 Business Insights
+# Business Insights
 
 The dashboard helps answer key business questions such as:
 
@@ -91,7 +91,7 @@ The dashboard helps answer key business questions such as:
 
 ---
 
-# 🚀 Skills Demonstrated
+# Skills Demonstrated
 
 - Microsoft Excel
 - Data Cleaning
@@ -106,10 +106,10 @@ The dashboard helps answer key business questions such as:
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```text
-📦 Online-Store-Annual-Report
+Online-Store-Annual-Report
 
 ├── Online Store Annual Report.xlsx
 ├── Online Store Annual Report.png
@@ -119,7 +119,7 @@ The dashboard helps answer key business questions such as:
 
 ---
 
-# 📈 Business Value
+# Business Value
 
 This dashboard enables businesses to:
 
@@ -131,20 +131,7 @@ This dashboard enables businesses to:
 
 ---
 
-# 🔮 Future Improvements
-
-- Automate data refresh using Power Query
-- Connect Excel to a live database
-- Build forecasting models for future sales
-- Publish the dashboard using Power BI
-- Incorporate customer segmentation analysis
-
----
-
-# 👨‍💻 Author
+# Author
 
 **Rounak Guchhait**
 
-**Aspiring Data Analyst**
-
-**Skills:** Excel • SQL • Power BI • Python • Data Visualization • Business Analytics
